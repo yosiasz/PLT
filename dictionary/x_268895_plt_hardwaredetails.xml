@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="HardwareDetails" max_length="40" name="x_268895_plt_hardwaredetails" type="collection">
+        <element label="HardwareId" max_length="40" name="hardwareid" type="integer"/>
+        <element label="HardwareType" max_length="40" name="hardwaretype" type="integer"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="SerialNumber" max_length="40" name="serialnumber" type="string"/>
+    </element>
+</database>

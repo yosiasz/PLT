@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="hardwareid" label="HardwareId" language="en" table="x_268895_plt_hardwaredetails">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>hardwareid</element>
+            <help/>
+            <hint/>
+            <label>HardwareId</label>
+            <language>en</language>
+            <name>x_268895_plt_hardwaredetails</name>
+            <plural>HardwareIds</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-18 18:25:27</sys_created_on>
+            <sys_id>c64c2b00db2a230043821fc7689619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>HardwareId</sys_name>
+            <sys_package display_value="PLT" source="x_268895_plt">1ffa67ccdbe6230043821fc76896196e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PLT">1ffa67ccdbe6230043821fc76896196e</sys_scope>
+            <sys_update_name>sys_documentation_x_268895_plt_hardwaredetails_hardwareid_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-18 18:25:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
